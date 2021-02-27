@@ -9,11 +9,32 @@ iframe{
 }
 A2{
    Width: 80%; 
-    bottom:1000px;
+    bottom:120px;
 }
 #img1{
     width:75px;
 }
 #img2{
     width:100px;
+}
+.achievments_head{
+    font-size: 20px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display: inline-block;
+}
+.achievments_head i{
+    float: right;
+}
+.img1{
+    width:100%
+}
+.whatsnew_li{
+    margin-top: 15px;
+}
+.whatsnew_li h4{
+    padding: 8px;
+    border-bottom: 5px solid white;
 }
